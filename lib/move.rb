@@ -7,5 +7,5 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  puts "1-9"
+  return "1-9"
 end
